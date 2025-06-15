@@ -1,1 +1,1 @@
-print("Kazeko AI da ho?t d?ng!") 
+print("Kazeko AI da hoat dong!") 
